@@ -1,0 +1,3 @@
+[main] INFO  | com.company.App                                              | Hello from Log4J (App.java:11)
+[main] ERROR | com.company.App                                              | PROBLEM test (App.java:16)
+[main] WARN  | org.springframework.context.annotation.AnnotationConfigApplicationContext | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfig': Failed to instantiate [com.ib.AppConfig$$SpringCGLIB$$0]: Constructor threw exception (AbstractApplicationContext.java:633)
